@@ -2,9 +2,9 @@ package CW.uit;
 
 public class CW1 {
     public static void main (String [] args) {
-        System.out.println("Hi");
-        System.out.println("Hi - 1");
-        System.out.println("Hi - 22");
-        System.out.println("Hi - 33");
+        System.out.println("new");
+        System.out.println("new - 1");
+        System.out.println("new - 22");
+        System.out.println("new - 33");
     }
 }

@@ -13,5 +13,6 @@ public class CW1 {
         System.out.println("Hi6");
         System.out.println("Hi7");
         System.out.println("Hi8");
+        System.out.println("Hi9");
     }
 }

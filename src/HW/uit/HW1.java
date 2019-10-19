@@ -1,9 +1,11 @@
+package HW.uit;
+
 import com.sun.org.apache.xpath.internal.objects.XString;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class HW1 {
 
     public static void main(String[] args) {
             /*int lensmax = Integer.MIN_VALUE;
